@@ -1,4 +1,5 @@
-# Lesson_1_Navigation
+# udacity-p1-navigation
+Udacity Deep Reinforcement Learning ND Project 1
 
 ### Project Details
 This project is one of the Udacity Deep Reinforcement Learning Nano Degree program.
@@ -58,3 +59,4 @@ Unity brain name: BananaBrain
 ### Instructions
 
 Follow the instructions in `Navigation.ipynb` to get started with training the agent
+
